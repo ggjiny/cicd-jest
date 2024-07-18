@@ -8,6 +8,7 @@ export default function Page() {
       <button>앙녕하세영</button>
       <h2>코드 코브 연습중</h2>
       <p> 되나용???</p>
+      <p>다시 ㄱㄱㄱ</p>
     </div>
   );
 }
