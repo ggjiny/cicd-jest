@@ -3,12 +3,5 @@ export const metadata = {
 };
 
 export default function Page() {
-  return (
-    <div>
-      <button>앙녕하세영</button>
-      <h2>코드 코브 연습중</h2>
-      <p> 되나용???</p>
-      <p>다시 ㄱㄱㄱ</p>
-    </div>
-  );
+  return <h1>App Router</h1>;
 }
